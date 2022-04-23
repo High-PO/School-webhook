@@ -8,6 +8,10 @@
 
 해당 코드는 AWS Lambda에서 돌리고 있습니다.
 
+```
+npm ci
+```
+
 # 사용자가 수정할 부분
 
 > <Your_School_Type>

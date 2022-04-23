@@ -1,0 +1,23 @@
+{
+  "name": "school-webhook",
+  "version": "1.0.0",
+  "description": "> 급식 조회 모듈과 AWS를 이용한 디스코드 자동 급식 메뉴 알리미",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/High-PO/School-webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/High-PO/School-webhook/issues"
+  },
+  "homepage": "https://github.com/High-PO/School-webhook#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "school-kr": "^3.1.2"
+  }
+}
